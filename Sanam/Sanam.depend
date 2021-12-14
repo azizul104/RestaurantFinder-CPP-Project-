@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1561140804 source:c:\users\pavel\documents\c++\sanam\main.cpp
+	<iostream>
+	"RMS_UI.h"
+	"DataManager.h"
+
+1561142515 source:c:\users\pavel\documents\c++\sanam\src\datamanager.cpp
+	"DataManager.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1561141313 c:\users\pavel\documents\c++\sanam\include\datamanager.h
+	<iostream>
+	<fstream>
+
+1561136768 source:c:\users\pavel\documents\c++\sanam\src\district.cpp
+	"District.h"
+
+1561139302 c:\users\pavel\documents\c++\sanam\include\district.h
+
+1561139684 source:c:\users\pavel\documents\c++\sanam\src\restaurant.cpp
+	"Restaurant.h"
+
+1561139676 c:\users\pavel\documents\c++\sanam\include\restaurant.h
+
+1561138921 source:c:\users\pavel\documents\c++\sanam\src\ui.cpp
+	"UI.h"
+	<windows.h>
+	<iostream>
+
+1561138749 c:\users\pavel\documents\c++\sanam\include\ui.h
+	<string>
+
+1561140076 c:\users\pavel\documents\c++\sanam\include\rms_ui.h
+	<iostream>
+	"UI.h"
+
+1561139162 source:c:\users\pavel\documents\c++\sanam\src\rms_ui.cpp
+	"RMS_UI.h"
+
+1561139601 source:c:\users\pavel\documents\c++\sanam\src\resturentcollection.cpp
+	"ResturentCollection.h"
+
+1561139743 c:\users\pavel\documents\c++\sanam\include\resturentcollection.h
+	"Restaurant.h"
+
